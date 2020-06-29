@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T20:14:29.467636+00:00
+UPDATED AT: 2020-06-29T20:30:54.933167+00:00
 
 
 # Alabama
@@ -2224,6 +2224,19 @@ id: il-chicago-12
 * https://twitter.com/ChrisDitton/status/1267675836892708864
 
 
+### Police push protestor on bike, slap phone out of his hand | June 2nd
+
+Footage shows a protestor on a bicycle who was blocking the street. As he is moving out of the way, police continue to push him on the side, hindering his balance. One officer slaps his phone out of his hand.
+
+tags: push, shove, property-destruction
+
+id: il-chicago-13
+
+**Links**
+
+* https://www.tiktok.com/@gonzalosanchez75/video/6833934911506746629
+
+
 ### Police hit several protesters with batons | (Believed to be) June 3rd
 
 The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
@@ -2235,6 +2248,20 @@ id: il-chicago-9
 **Links**
 
 * https://twitter.com/TomSchuba/status/1268312957752160257
+
+
+### Police seen without badges | (Believed to be) June 4th
+
+Footage pans over a line of cops, none of whom have badges. The crowd is chanting, "Where's your badges?"
+
+tags: hide-badges, abuse-of-power
+
+id: il-chicago-14
+
+**Links**
+
+* https://www.tiktok.com/@sarahsoch/video/6834688359969918214
+* https://twitter.com/punishmegrant/status/1268966252707487745
 
 
 ## Joliet
@@ -5878,6 +5905,32 @@ id: or-portland-34
 * https://twitter.com/hungrybowtie/status/1277169298000105473
 
 
+### Police charge crowd; shove multiple protestors | June 28th
+
+In footage from the night of June 28th, police charge protestors while declaring an unlawful assembly. An officer repeatedly strikes the filmer in an apparent effort to knock the phone out of his hands.
+
+tags: strike, push, shove
+
+id: or-portland-37
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1277340069867601920
+
+
+### Police shove and mace protestor with hands up | June 28th
+
+Footage shows a police line advancing towards protestors. A protestor is walking backwards with his hands up, speaking to police. An officer shoves him, then a second maces him.
+
+tags: push, shove, pepper-spray, spray, mace
+
+id: or-portland-36
+
+**Links**
+
+* https://twitter.com/1misanthrophile/status/1277340657648984064
+
+
 ## Salem
 
 ### Before firing tear gas, Salem PD warns Proud Boys | June 4th
@@ -6078,7 +6131,7 @@ id: pa-philadelphia-10
 * https://twitter.com/jpegjoshua/status/1267599264257015816
 
 
-### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
+### Police kneel on man who says "I can't breathe", officer yells profanities back | (Believed to be) June 3rd
 
 At least 6 officers surround a handcuffed man who says "I can't breathe". Officer replies "Shut up asshole. Are you fucking stupid? Shut up, that shit don't work here."
 
@@ -6089,6 +6142,27 @@ id: pa-philadelphia-6
 **Links**
 
 * https://twitter.com/greg_doucette/status/1268200800649707526
+
+
+### Reporter is harassed and assaulted by pro-Columbus supporters; police tell reporter to leave the scene | June 13th
+
+A reporter from Unicorn Riot showed up at a pro-Columbus rally at a statue of Christopher Columbus in Philadelphia. He is harassed, threatened and assaulted by members of the rally. In addition, an article published by Unicorn Riot states that members of the rally slashed the journalist's tires.  After several minutes, police intervene to push protestors back, but make no arrests. They appear to say nothing more to members of the rally than, "Leave him alone."
+
+The reporter continues to film from a distance.
+
+Around 6:20, the journalist is assaulted again by a man who says he doesn't want the journalist to film.
+
+Shortly after, the journalist is told by the officer that he has been warned 3 times to leave. The journalist insists he is here to film. The officer states that the journalist is inciting a riot and should be mindful of the curfew time.
+
+tags: journalist, abuse-of-power
+
+id: pa-philadelphia-11
+
+**Links**
+
+* https://vimeo.com/428917635
+* https://www.reddit.com/r/PublicFreakout/comments/hbaove/philadelphia_police_threaten_unicorn_riot/
+* https://unicornriot.ninja/2020/philadelphia-police-threaten-unicorn-riot-reporter-after-vigilante-assault/
 
 
 ## Pittsburgh
