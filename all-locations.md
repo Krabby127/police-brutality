@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T19:20:54.500857+00:00
+UPDATED AT: 2020-06-29T20:02:11.636995+00:00
 
 
 # Alabama
@@ -490,6 +490,19 @@ id: ca-losangeles-33
 * https://laist.com/2020/06/11/uninsured_protesters_free_medical_aid_la_doctor.php
 * https://losangeles.cbslocal.com/video/4578194-protester-deon-jones-describes-being-shot-with-rubber-bullet-by-police/
 * https://www.foxla.com/news/i-felt-like-i-was-on-the-timeline-to-my-death-local-man-speaks-out-after-weekend-protest-ends-in-violence
+
+
+### Riot police fire tear gas at peaceful protest, then use mace to corral protestors | May 30th
+
+Footage shows a peaceful protest opposite a police line. Around 50 seconds, police fire tear gas behind protestors, trapping them between tear gas and the police line. Police tell protestors to move, but protestors insist they cannot leave because of the gas behind them. Around 1:40, police then pepper spray protestors, forcing them to retreat into the tear gas.
+
+tags: tear-gas, mace, pepper-spray, spray
+
+id: ca-losangeles-34
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/h7q97a/using_mace_to_direct_protestors_through_teargas/
 
 
 ### Police fire rubber/pepper bullets at peaceful protestors | May 31st
@@ -1261,7 +1274,7 @@ On June 27th, citizens of Aurora held a violin vigil in honor of Elijah McClain.
 
 Aurora police arrived in riot gear to disperse the vigil. When participants refused, riot police beat them with batons and pepper-sprayed them.
 
-tags: strike, beat, baton, pepper-spray, spray
+tags: strike, beat, baton, pepper-spray, spray, tear-gas
 
 id: co-aurora-1
 
@@ -1270,6 +1283,8 @@ id: co-aurora-1
 * https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hhfrh8/062820_musicians_in_aurora_colorado_honoring/
 * https://www.reddit.com/r/2020PoliceBrutality/comments/hhh6fe/aurora_co_during_a_vigil_with_live_violinists_for/
 * https://twitter.com/jessiedesigngir/status/1277126019246260224
+* https://twitter.com/ekbates4/status/1277104647690280961
+* https://twitter.com/Ezret/status/1277451145418469376
 
 
 ## Colorado Springs
