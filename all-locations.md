@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-29T21:05:34.595032+00:00
+UPDATED AT: 2020-06-29T21:06:55.306235+00:00
 
 
 # Alabama
@@ -1274,7 +1274,7 @@ On June 27th, citizens of Aurora held a violin vigil in honor of Elijah McClain.
 
 Aurora police arrived in riot gear to disperse the vigil. When participants refused, riot police beat them with batons and pepper-sprayed them.
 
-tags: strike, beat, baton, pepper-spray, spray, tear-gas
+tags: strike, beat, baton, pepper-spray, spray
 
 id: co-aurora-1
 
